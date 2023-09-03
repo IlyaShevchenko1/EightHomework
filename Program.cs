@@ -322,7 +322,9 @@ Show3dArray(myArray);
 */
 
 // Task 62. Напишите программу, которая заполнит спирально массив 4 на 4.
-// (Попробовать написать программу для любого размера nxn).
+// (Попробовать написать программу для любого размера n x n).
+
+/*
 
 int[,] CreateSpiralArray()
 {
@@ -363,3 +365,5 @@ void Show2dArray(int[,] array)
 
 int[,] myArray = CreateSpiralArray();
 Show2dArray(myArray);
+
+*/
